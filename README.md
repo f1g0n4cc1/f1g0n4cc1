@@ -57,11 +57,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=f1g0n4cc1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1g0n4cc1&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me
 * **LinkedIn:** [jacopo-falcone](https://www.linkedin.com/in/jacopo-falcone-5bb730158)
