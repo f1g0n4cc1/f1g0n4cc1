@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 Security Experience & Impact
+### 🚀 Work Experience & Impact
 
 <details>
 <summary><b>🛠 Freelance Security Consultancy (JAB Solution)</b></summary>
@@ -52,6 +52,7 @@
 * **In Progress:** `CompTIA Security+` `Splunk Core Certified User` `Linux LPI Essentials`
 
 #### 🏆 Community Rankings
+* **HelSec:** Member since 2024
 * **TryHackMe:** Top 5% Global
 * **LetsDefend:** Top 3 in Finland
 
